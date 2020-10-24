@@ -51,7 +51,6 @@ def sorted_matrix
   storage[0].sort
   storage[1].sort
 
-  storage
 end
 
 def matrix_lookup(matrix, row, column)
