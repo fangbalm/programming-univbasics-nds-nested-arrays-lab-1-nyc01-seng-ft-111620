@@ -50,6 +50,7 @@ def sorted_matrix
 
   storage.each do
     storage.sort
+  end
 end
 
 def matrix_lookup(matrix, row, column)
