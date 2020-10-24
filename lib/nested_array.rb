@@ -48,8 +48,8 @@ def sorted_matrix
   "Avocadoes",
   "Asparagus"]]
 
-  storage[0].sort
-  storage[1].sort
+  puts storage[0].sort
+  puts storage[1].sort
 
 end
 
