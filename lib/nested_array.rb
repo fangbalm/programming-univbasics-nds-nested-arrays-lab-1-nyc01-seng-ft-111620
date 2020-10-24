@@ -49,7 +49,7 @@ def sorted_matrix
   "Asparagus"]]
 
   storage[0].sort
-  storage[1].sort 
+  storage[1].sort
 
   storage
 end
