@@ -48,10 +48,8 @@ def sorted_matrix
   "Avocadoes",
   "Asparagus"]]
 
-  storage.each do
-    storage.sort
-  end
-  storage
+  storage[0].sort 
+  storage[1].sort 
 end
 
 def matrix_lookup(matrix, row, column)
